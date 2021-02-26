@@ -1,6 +1,6 @@
 <div align="center">React Native Assignment 26-Feb-2021</div>
 
-<h3>Screenshots</h3>
+<h3 align="center">Screenshots</h3>
 <div align='center'>
  
 ![Initial App](./Screenshots/Initial.png)
