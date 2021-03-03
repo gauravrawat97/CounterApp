@@ -1,4 +1,4 @@
-<div align="center">React Native Assignment 3nd-March-2021</div>
+<div align="center">React Native Assignment 3rd-March-2021</div>
 
 
 
