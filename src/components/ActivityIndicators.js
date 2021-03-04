@@ -1,6 +1,6 @@
 import React,{Component,PureComponent} from 'react'
 import {View,Text, Button,StyleSheet, SafeAreaView, TextInput,Image, ScrollView, TouchableOpacity, ActivityIndicator} from 'react-native'
-import DummyImage from "../images/dragon.jpeg"
+import DummyImage from "../assets/dragon.jpeg"
 
 class ActivityIndicators extends Component{
     constructor(props)
