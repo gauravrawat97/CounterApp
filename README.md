@@ -18,7 +18,7 @@ Use fetch https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
 ![intial](./Screenshots/Fetch/Initial.png)
 ![fetch](./Screenshots/Fetch/Fetch.png)
-![content](./Screenshots/Fetch/ContentFirst.png)
+![content](./Screenshots/Fetch/Content_First.png)
 ![load more](./Screenshots/Fetch/loadmorefetch.png)
 ![final content](./Screenshots/Fetch/final_data.png)
 
