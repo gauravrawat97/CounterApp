@@ -1,9 +1,9 @@
 import React,{Component,PureComponent} from 'react'
 import {View,Text, Button,StyleSheet, SafeAreaView, TextInput,Image, ScrollView} from 'react-native'
-import Back from "./images/back.png"
-import Bookmark from "./images/bookmark.png"
-import Dragon from './images/dragon.jpeg'
-import Screens from './images/screens.jpeg'
+import Back from "../assets/back.png"
+import Bookmark from "../assets/bookmark.png"
+import Dragon from '../assets/dragon.jpeg'
+import Screens from '../assets/screens.jpeg'
 
 class ProductComponent extends Component{
 render()
