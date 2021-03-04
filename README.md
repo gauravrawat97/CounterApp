@@ -1,42 +1,26 @@
-<div align="center">React Native Assignment 3nd-March-2021</div>
+<div align="center">React Native Assignment 4th-March-2021</div>
 
 
 
 <div align='center'>
-<b>Create the screen with design given in the link below alongwith background  image.
- </b>
+Create a new Screen 
+Add a button FETCH Data
+On click present a loader and make an API call 
+List the data on the same screen, existing button and loader should be removed
+API Path : https://reqres.in/api/users
+
+Method : GET 
+
+Use fetch https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
  <br/>
- <a href="https://drive.google.com/file/d/1ot21Mo6zOgiY1gkDPyLw82FKe82eSXws/view?  usp=sharing">Link to Design</a>
+
  <br/>
-![intial](./Screenshots/Component1/otp_blank.png)
-![feed](./Screenshots/Component1/otp_feed.png)
-![alert](./Screenshots/Component1/otp_alert.png)
+
+![intial](./Screenshots/Fetch/Initial.png)
+![fetch](./Screenshots/Fetch/Fetch.png)
+![content](./Screenshots/Fetch/ContentFirst.png)
+![load more](./Screenshots/Fetch/loadmorefetch.png)
+![final content](./Screenshots/Fetch/final_data.png)
 
 </div>
 
-
-<br/>
-
-<div align='center'>
-<b>Create a text input , text and view alongwith the following steps:-
-     You will input the hex code of a color, and validate that hexcode on submit.
-      If it is a valid hex code convert it into RGB and show its value in the <Text> 
-      Give that RGB value as background color for the <View>.
- </b>
- <br/>
-![intial](./Screenshots/Component1/hex_initial.png)
-![feed](./Screenshots/Component1/hex_output.png)
-![alert](./Screenshots/Component1/hex_error.png)
-
-</div>
-<br/>
-
-
-<div align='center'>
-<b>Create a image view and show activity indicator in place of image while it is loaded.
- </b>
- <br/>
-![intial](./Screenshots/Component1/loading_initial.png)
-![end](./Screenshots/Component1/loading_end.png)
-
-</div>
