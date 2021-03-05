@@ -1,8 +1,9 @@
 <div align="center">React Native Assignment 5th-March-2021</div>
 
 
-<p style="align:center">iOS Screenshots</p>
-<div align='center' style="flex:row;justify-content:space-evenly">
+<p style="text-align:center">iOS Screenshots</p>
+
+<div align='center' style="flex:row;justify-content:space-between">
 
 
 ![intial](./Screenshots/Navigation/ios/initial.png)
@@ -15,7 +16,7 @@
 <br>
 <br>
 
-<p style="align:center">Android Screenshots</p>
+<p style="text-align:center">Android Screenshots</p>
 <div align='center' style="display:flex;justify-content:space-evenly">
 
 
