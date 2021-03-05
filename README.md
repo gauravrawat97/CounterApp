@@ -1,26 +1,28 @@
-<div align="center">React Native Assignment 4th-March-2021</div>
+<div align="center">React Native Assignment 5th-March-2021</div>
 
 
+<p style="align:center">iOS Screenshots</p>
+<div align='center' style="flex:row;justify-content:space-evenly">
 
-<div align='center'>
-Create a new Screen 
-Add a button FETCH Data
-On click present a loader and make an API call 
-List the data on the same screen, existing button and loader should be removed
-API Path : https://reqres.in/api/users
 
-Method : GET 
+![intial](./Screenshots/Navigation/ios/initial.png)
+![writing text](./Screenshots/Navigation/ios/text.png)
+![final](./Screenshots/Navigation/ios/final.png)
+![app corner](./Screenshots/Navigation/ios/app.png)
 
-Use fetch https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
- <br/>
+</div>
 
- <br/>
+<br>
+<br>
 
-![intial](./Screenshots/Fetch/Initial.png)
-![fetch](./Screenshots/Fetch/Fetch.png)
-![content](./Screenshots/Fetch/ContentFirst.png)
-![load more](./Screenshots/Fetch/loadmorefetch.png)
-![final content](./Screenshots/Fetch/final_data.png)
+<p style="align:center">Android Screenshots</p>
+<div align='center' style="display:flex;justify-content:space-evenly">
+
+
+![intial](./Screenshots/Navigation/android/initial.png)
+![writing text](./Screenshots/Navigation/android/text.png)
+![final](./Screenshots/Navigation/android/final.png)
+![app corner](./Screenshots/Navigation/android/app.png)
 
 </div>
 
