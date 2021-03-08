@@ -1,26 +1,40 @@
-<div align="center">React Native Assignment 4th-March-2021</div>
+<div align="center">React Native Assignment 8th-March-2021</div>
 
 
 
 <div align='center'>
-Create a new Screen 
-Add a button FETCH Data
-On click present a loader and make an API call 
-List the data on the same screen, existing button and loader should be removed
-API Path : https://reqres.in/api/users
-
-Method : GET 
-
-Use fetch https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+Implement WebView, show Activity indicator when WebView is loading
  <br/>
 
  <br/>
 
-![intial](./Screenshots/Fetch/Initial.png)
-![fetch](./Screenshots/Fetch/Fetch.png)
-![content](./Screenshots/Fetch/ContentFirst.png)
-![load more](./Screenshots/Fetch/loadmorefetch.png)
-![final content](./Screenshots/Fetch/final_data.png)
+![webview](./Screenshots/8-March/webview.gif)
 
 </div>
 
+<br>
+<br>
+
+<div align='center'>
+Use a switch to show hide the Slider and below slider show the slider value
+ <br/>
+
+ <br/>
+
+![slide](./Screenshots/8-March/slider.gif)
+
+</div>
+
+
+<br>
+<br>
+
+<div align='center'>
+ Using api https://reqres.in/api/users?page=1 Render a Flatlist and implement pagination and pull to refresh show activity indicator below the flatlist when api is being called for the next page, use RefreshControl to show Activity indicator on top in case of pull to refresh
+ <br/>
+
+ <br/>
+
+![slide](./Screenshots/8-March/flatlist.gif)
+
+</div>
