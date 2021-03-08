@@ -8,7 +8,7 @@ Implement WebView, show Activity indicator when WebView is loading
 
  <br/>
 
-![webview](./Screenshots/8-March/webview.gif)
+![webview](./Screenshots/8-March/ios/webview.gif)
 
 </div>
 
@@ -21,7 +21,7 @@ Use a switch to show hide the Slider and below slider show the slider value
 
  <br/>
 
-![slide](./Screenshots/8-March/slider.gif)
+![slide](./Screenshots/8-March/ios/slider.gif)
 
 </div>
 
@@ -35,6 +35,6 @@ Use a switch to show hide the Slider and below slider show the slider value
 
  <br/>
 
-![slide](./Screenshots/8-March/flatlist.gif)
+![slide](./Screenshots/8-March/ios/flatlist.gif)
 
 </div>
