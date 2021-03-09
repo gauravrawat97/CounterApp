@@ -2,39 +2,28 @@
 
 
 
-<div align='center'>
-Implement WebView, show Activity indicator when WebView is loading
- <br/>
-
- <br/>
-
-![webview](./Screenshots/8-March/webview.gif)
-
-</div>
-
-<br>
-<br>
-
-<div align='center'>
-Use a switch to show hide the Slider and below slider show the slider value
- <br/>
-
- <br/>
-
-![slide](./Screenshots/8-March/slider.gif)
-
-</div>
+<div align='center' style="margin-bottom:40px">
+Create the above screen in React-Native 
+<ul>
+<li>Tab Navigation needs to integrated </li>
+<li>Home tab must be selected </li>
+<li>Icons can be fetched from icons8.com </li>
+<li>Sort, filter, wishlist should be touchable</li>
+<li>No need for back icon </li>
+</ul>
 
 
-<br>
-<br>
+<p> IOS</p>
 
-<div align='center'>
- Using api https://reqres.in/api/users?page=1 Render a Flatlist and implement pagination and pull to refresh show activity indicator below the flatlist when api is being called for the next page, use RefreshControl to show Activity indicator on top in case of pull to refresh
- <br/>
+![ios](./Screenshots/9-March/ios.gif)
 
- <br/>
 
-![slide](./Screenshots/8-March/flatlist.gif)
+
+<p> Android</p>
+
+![ios](./Screenshots/9-March/android.gif)
 
 </div>
+
+<br>
+<br>
