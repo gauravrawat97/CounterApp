@@ -1,9 +1,7 @@
-<div align="center">React Native Assignment 8th-March-2021</div>
+<div align="center">React Native Assignment 9th-March-2021</div>
 
 
-
-<div align='center' style="margin-bottom:40px">
-Create the above screen in React-Native 
+Create the above screen in React-Native
 <ul>
 <li>Tab Navigation needs to integrated </li>
 <li>Home tab must be selected </li>
@@ -12,14 +10,15 @@ Create the above screen in React-Native
 <li>No need for back icon </li>
 </ul>
 
+<div align='center' style="margin-top:80px">
 
-<p> IOS</p>
+IOS
 
 ![ios](./Screenshots/9-March/ios.gif)
 
 
 
-<p> Android</p>
+Android
 
 ![ios](./Screenshots/9-March/android.gif)
 
