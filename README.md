@@ -1,27 +1,17 @@
-<div align="center">React Native Assignment 8th-March-2021</div>
-
-
+<div align="center">React Native Assignment 11th-March-2021</div>
 
 <div align='center' style="margin-bottom:40px">
-Create the above screen in React-Native 
-<ul>
-<li>Tab Navigation needs to integrated </li>
-<li>Home tab must be selected </li>
-<li>Icons can be fetched from icons8.com </li>
-<li>Sort, filter, wishlist should be touchable</li>
-<li>No need for back icon </li>
-</ul>
+Use Alert, intercept Back Press and show the text to confirm go back.
+Use Clipboard to move text from one screen to another.
+<br>
 
+<p style="margin-top:20px"> IOS</p>
 
-<p> IOS</p>
+![ios](./Screenshots/11-March/ios/clip.gif)
 
-![ios](./Screenshots/9-March/ios.gif)
+<p style="margin-top:20px"> Android</p>
 
-
-
-<p> Android</p>
-
-![ios](./Screenshots/9-March/android.gif)
+![ios](./Screenshots/11-March/android/clip.gif)
 
 </div>
 
