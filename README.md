@@ -1,30 +1,29 @@
-<div align="center">React Native Assignment 16th-March-2021</div>
-
-<div style="margin-bottom:40px">
+<div align="center">React Native Assignment 17th-March-2021</div>
 
 
-<p style="margin-top:20px;text-align:center"> IOS Screenshots</p>
+<p>Create a draggable ball</p>
+
+<p style="margin-top:20px;margin-bottom:20px;text-align:center"> Screenshots</p>
 <div style="display:flex;justify-content:space-evenly">
-![ios](./Screenshots/ios/register.png)
-![ios](./Screenshots/ios/datafeed.png)
-![ios](./Screenshots/ios/home.png)
-![ios](./Screenshots/ios/logout.png)
+
+![ios](./Screenshots/ios/ball.gif)
+
+![android](./Screenshots/android/ball.gif)
+
 </div>
 
 
+Create a map view
+<ol>
+<li>Show your current location </li>
+<li>Set your current location on drag i.e,  current location functionality in zomato application.</li>
+<li>Create an array of some static coordinates and show marker for those coordinates on map view.</li>
 
-<p style="margin-top:20px;text-align:center"> Android Screenshots</p>
-<div style="display:flex;justify-content:space-evenly">
-![android](./Screenshots/android/register.png)
-![android](./Screenshots/android/datafeed.png)
-![android](./Screenshots/android/home.png)
-![android](./Screenshots/android/logout.png)
-</div>
-</div>
+<p style="margin-top:20px;margin-bottom:20px;text-align:center"> Screenshots</p>
+<div style="display:flex;justify-content:space-between">
 
+![ios](./Screenshots/ios/map.gif)
 
-
-<div style="margin:20px 10px">
-![ios](./Screenshots/retaindata.gif)
+![android](./Screenshots/android/map.gif)
 
 </div>
