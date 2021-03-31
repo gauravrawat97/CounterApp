@@ -2,11 +2,21 @@ import React from 'react';
 import {View, StyleSheet, Text, TouchableOpacity} from 'react-native';
 import Icon from 'react-native-vector-icons/Ionicons';
 import Ant from 'react-native-vector-icons/AntDesign';
+import {back} from 'react-native/Libraries/Animated/src/Easing';
 
-function ItemList({name, icon, anotherIcon, secondaryIcon, moreText, text}) {
+function ItemList({
+  name,
+  icon,
+  anotherIcon,
+  secondaryIcon,
+  moreText,
+  text,
+  backgroundColor,
+}) {
   if (!moreText && !anotherIcon) {
     return (
-      <TouchableOpacity style={style.container}>
+      <TouchableOpacity
+        style={[style.container, backgroundColor ? style.border : null]}>
         <View style={style.textContainer}>
           <Icon name={icon} size={30} />
           <Text style={style.text}>{name}</Text>
@@ -18,7 +28,8 @@ function ItemList({name, icon, anotherIcon, secondaryIcon, moreText, text}) {
     );
   } else if (moreText && !anotherIcon) {
     return (
-      <TouchableOpacity style={style.container}>
+      <TouchableOpacity
+        style={[style.container, backgroundColor ? style.border : null]}>
         <View style={style.textContainer}>
           <Icon name={icon} size={30} />
           <Text style={style.text}>{name}</Text>
@@ -31,7 +42,8 @@ function ItemList({name, icon, anotherIcon, secondaryIcon, moreText, text}) {
     );
   } else if (moreText && anotherIcon) {
     return (
-      <TouchableOpacity style={style.container}>
+      <TouchableOpacity
+        style={[style.container, backgroundColor ? style.border : null]}>
         <View style={style.textContainer}>
           <Icon name={icon} size={30} />
           <Text style={style.text}>{name}</Text>
@@ -104,5 +116,9 @@ const style = StyleSheet.create({
   },
   iconFix: {
     marginRight: 4,
+  },
+  border: {
+    borderTopWidth: 20,
+    borderColor: '#E8E8E8',
   },
 });

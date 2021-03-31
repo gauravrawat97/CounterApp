@@ -32,9 +32,6 @@ const FirstItems = [
     name: 'Store Locator',
     icon: 'locate-outline',
   },
-];
-
-const SecondItems = [
   {
     name: 'Country',
     icon: 'globe',
@@ -103,22 +100,19 @@ class Account extends Component {
   }
 
   renderItem({item}) {
+    if (item.name === 'Track Order') {
+      return <ItemList {...item} backgroundColor={true} />;
+    } else if (item.name === 'Country') {
+      return <ItemList {...item} backgroundColor={true} />;
+    }
     return <ItemList {...item} />;
   }
   render() {
     return (
       <SafeAreaView style={style.container}>
         <Welcome openModalBox={this.openModalBox} />
-        <View style={style.firstItemContainer}>
-          <FlatList
-            data={FirstItems}
-            renderItem={this.renderItem}
-            keyExtractor={(item, index) => item + index}
-          />
-        </View>
-
         <FlatList
-          data={SecondItems}
+          data={FirstItems}
           renderItem={this.renderItem}
           keyExtractor={(item, index) => item + index}
         />
