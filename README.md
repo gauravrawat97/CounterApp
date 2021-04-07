@@ -1,7 +1,7 @@
-<div align="center">React Native Assignment 23rd-March-2021</div>
+<div align="center">React Native Assignment 7th-April-2021</div>
 
 <div align='center' style="margin-bottom:40px">
-Session : React-Native Screens
+Session : React-Native Realm
 </div>
 
 <p style="text-align:center;margin-bottom:50px"> IOS</p>
@@ -10,7 +10,7 @@ Session : React-Native Screens
 
 <p style="text-align:center;margin-bottom:50px"> Android</p>
 
-![ios](./Screenshots/android.gif)
+![ios](./Screenshots/androids.gif)
 
 <br>
 <br>
