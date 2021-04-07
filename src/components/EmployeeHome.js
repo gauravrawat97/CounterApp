@@ -142,9 +142,6 @@ export default class EmployeeHome extends Component {
     this.setState({data: searchData(value), searchText: value});
   }
   render() {
-    {
-      console.log('TESTING', this.state.searchText);
-    }
     return (
       <SafeAreaView style={style.container}>
         <View style={style.header}>

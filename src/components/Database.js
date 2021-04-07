@@ -18,7 +18,6 @@ let getAllEmployees = () => {
 };
 
 let addEmployee = (empID, name, designation, salary) => {
-  console.log(realm.objects('Employee'));
   realm.write(() => {
     const newEmp = realm.create('Employee', {
       empID: Number(empID),
