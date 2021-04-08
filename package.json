@@ -21,13 +21,18 @@
     "react": "16.13.1",
     "react-native": "0.63.4",
     "react-native-actionsheet": "^2.4.2",
+    "react-native-geolocation-service": "^5.2.0",
     "react-native-gesture-handler": "^1.10.3",
+    "react-native-google-maps": "^1.0.0",
     "react-native-linear-gradient": "^2.5.6",
     "react-native-maps": "0.27.1",
     "react-native-reanimated": "^2.0.0",
     "react-native-safe-area-context": "^3.2.0",
     "react-native-screens": "^2.18.1",
+    "react-native-track-player": "^1.2.7",
     "react-native-vector-icons": "^8.1.0",
+    "react-native-video": "^5.1.1",
+    "react-native-video-player": "^0.10.1",
     "react-native-webview": "^11.2.3"
   },
   "devDependencies": {

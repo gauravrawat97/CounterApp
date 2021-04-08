@@ -1,0 +1,69 @@
+[{
+    "id": "1", 
+    "url": "https://drive.google.com/uc?export=download&id=1AjPwylDJgR8DOnmJWeRgZzjsohi-7ekj",
+    "video":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "title": "Avaritia",
+    "artist": "deadmau1",
+    "album": "some",
+    "genre": "Progressive House, Electro House",
+    "date": "2014", 
+    "artwork": "https://static.wikia.nocookie.net/rocketleague/images/1/1e/Deadmau5_topper_icon.png/revision/latest?cb=20200422210224", 
+    "duration": 402 
+},
+{
+    "id": "2", 
+    "url": "https://drive.google.com/uc?export=download&id=1AjPwylDJgR8DOnmJWeRgZzjsohi-7ekj",
+    "video":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "title": "Ok",
+    "artist": "deadmau2",
+    "album": "some",
+    "genre": "Progressive House, Electro House",
+    "date": "2014", 
+    "artwork": "https://static.wikia.nocookie.net/rocketleague/images/1/1e/Deadmau5_topper_icon.png/revision/latest?cb=20200422210224", 
+    "duration": 402 
+},{
+    "id": "3", 
+    "url": "https://drive.google.com/uc?export=download&id=1AjPwylDJgR8DOnmJWeRgZzjsohi-7ekj",
+    "video":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "title": "Third",
+    "artist": "deadmau3",
+    "album": "some",
+    "genre": "Progressive House, Electro House",
+    "date": "2014", 
+    "artwork": "https://static.wikia.nocookie.net/rocketleague/images/1/1e/Deadmau5_topper_icon.png/revision/latest?cb=20200422210224", 
+    "duration": 402 
+},{
+    "id": "4", 
+    "url": "https://drive.google.com/uc?export=download&id=1AjPwylDJgR8DOnmJWeRgZzjsohi-7ekj",
+    "video":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "title": "Avaritia",
+    "artist": "deadmau4",
+    "album": "some",
+    "genre": "Progressive House, Electro House",
+    "date": "2014", 
+    "artwork": "https://static.wikia.nocookie.net/rocketleague/images/1/1e/Deadmau5_topper_icon.png/revision/latest?cb=20200422210224", 
+    "duration": 402 
+},{
+    "id": "5", 
+    "url": "http://example.com/avaritia.mp3",
+    "video":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "title": "Avaritia",
+    "artist": "deadmau5",
+    "album": "some",
+    "genre": "Progressive House, Electro House",
+    "date": "2014", 
+    "artwork": "https://static.wikia.nocookie.net/rocketleague/images/1/1e/Deadmau5_topper_icon.png/revision/latest?cb=20200422210224", 
+    "duration": 402 
+},{
+    "id": "6", 
+    "url": "https://drive.google.com/uc?export=download&id=1AjPwylDJgR8DOnmJWeRgZzjsohi-7ekj",
+    "video":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "title": "Avaritia",
+    "artist": "deadmau6",
+    "album": "some",
+    "genre": "Progressive House, Electro House",
+    "date": "2014", 
+    "artwork": "https://static.wikia.nocookie.net/rocketleague/images/1/1e/Deadmau5_topper_icon.png/revision/latest?cb=20200422210224", 
+    "duration": 402 
+}
+]
